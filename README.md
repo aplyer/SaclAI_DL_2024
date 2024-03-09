@@ -19,7 +19,7 @@ conda install pytorch torchvision torchaudio cpuonly -c pytorch-nightly
 ```
 
 ```
-conda install jupyterlab scikit-learn scikit-image scipy
+conda install jupyterlab scikit-learn scikit-image scipy seaborn d2l
 ```
 
 
@@ -28,3 +28,5 @@ conda install jupyterlab scikit-learn scikit-image scipy
 pip install --upgrade pip
 pip install --upgrade "jax[cpu]"
 ```
+
+
