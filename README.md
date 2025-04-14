@@ -1,3 +1,6 @@
+https://drive.google.com/drive/folders/1FT4zmIc61MFIZhYfxPh4WlM9udOuHBzY?usp=drive_link
+
+
 # SaclAI_DL_2024
 
 ## Solution de travail 1 : Google Colab
